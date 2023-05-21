@@ -1,0 +1,17 @@
+input{
+    width: 35%;
+    height: 35px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: large;
+}
+
+button{
+    width: 65px;
+    height: 42px;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: beige;
+    font-size: medium;
+    font-weight: 500;
+}

@@ -1,0 +1,19 @@
+.card-container {
+    width: 350px;
+    height: 410px;
+    background-color:#1b3951;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.card-cover {
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-title, .card-release-date  {
+    margin-left: 10px;
+    color: azure;
+}
