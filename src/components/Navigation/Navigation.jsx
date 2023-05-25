@@ -5,7 +5,7 @@ const Navigation = () => {
     return (
         <nav className="nav">
             <div className="nav-logo">
-                <h1>#GGaming</h1>
+                <h1>#GG-Movies</h1>
             </div>
             <div className="nav-menu">
                 <ul className="list-menu">
